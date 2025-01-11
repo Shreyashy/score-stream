@@ -37,14 +37,16 @@ header nav ul li a {
     color: #333;
 }
 
+
 .main-banner {
     display: flex;
     padding: 20px;
     background-color: #fff;
 }
 
-.main-banner img {
-    width: 100%;
+.main-banner iframe {
+    width: 65em;
+    height: 38em;
     border-radius: 10px;
 }
 
