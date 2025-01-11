@@ -37,6 +37,10 @@ header nav ul li a {
     color: #333;
 }
 
+header nav ul li a:hover {
+    color: #ffcf00;
+}
+
 
 .main-banner {
     display: flex;
